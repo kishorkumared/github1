@@ -1,5 +1,5 @@
 #include<stdio.h>
- main()
+main()
 {
-big3();
+rev();
 }
