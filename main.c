@@ -1,5 +1,5 @@
 #include<stdio.h>
-big3 main()
+ main()
 {
-big3
-};
+big3()
+}
