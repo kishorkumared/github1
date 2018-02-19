@@ -1,5 +1,5 @@
 kish.exe:main.o big3.o
-	gcc -0 kish.exe:main.o big3.o
+	gcc -0 kish.exe main.o big3.o
 main.o:main.c
 	gcc -c main.c
 big3.o:big3.c
