@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
  
-int rev()
+void rev()
 {
    char arr[100];
  
