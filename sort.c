@@ -1,6 +1,6 @@
 #include<stdio.h>
  
-void sort()
+ sort()
 {
   int array[100], n, c, d, swap;
  
