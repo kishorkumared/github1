@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-big
-fact 
-sort
+big();
+fact(); 
+sort();
 }
