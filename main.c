@@ -1,5 +1,7 @@
 #include<stdio.h>
 main()
 {
-rev();
+big.c
+fact.c 
+sort.c
 }
